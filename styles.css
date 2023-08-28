@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+.content {
+    text-align: center;
+}
+
+.timer {
+    font-size: 2em;
+    display: inline-block;
+    border: 2px solid white;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #333;  /* slightly lighter than the black background for contrast */
+    margin-top: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
